@@ -9,7 +9,7 @@ date_range: "January 2025 - June 2025"
 order: 1
 ---
 
-Managed daily P&L reporting and variance analysis for three major trading books—Global TERM Index, Inventory Management EM Index, and Synthetic PB Index—ensuring accurate financial reflection of complex market-making activities.
+Managed daily P&L reporting and variance analysis for three major trading books, ensuring accurate financial reflection of complex market-making activities.
 
 ## P&L Delivery Lifecycle
 
@@ -44,7 +44,7 @@ The following presentation summarizes my key contributions, process improvements
 
 <div style="width: 100%; height: 600px; margin-bottom: 30px; border: 1px solid #eee; border-radius: 8px; overflow: hidden;">
     <embed 
-        src="{{ '/assets/presn_a.pdf' | relative_url }}" 
+        src="{{ '/presn_a.pdf' | relative_url }}" 
         type="application/pdf" 
         width="100%" 
         height="100%" 
