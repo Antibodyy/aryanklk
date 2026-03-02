@@ -9,64 +9,43 @@ date_range: "January 2025 - June 2025"
 order: 1
 ---
 
-Supported daily P&L reporting and variance investigations for Capital Markets Financing trading books.
+Managed daily P&L reporting and variance analysis for three major trading books—Global TERM Index, Inventory Management EM Index, and Synthetic PB Index—ensuring accurate financial reflection of complex market-making activities.
 
-## My Contributions
+## P&L Delivery Lifecycle
 
-### Daily P&L Production & Validation
-* **Produced T+1 P&L reports** for four major trading books with daily run rates ranging from $50k to $750k
+The P&L production process is a rigorous cycle involving close coordination between the front office and finance to ensure every dollar is accounted for and explained.
 
-* **Performed Risk Sensitivity-based P&L estimation** comparing risk exposures against market movements to forecast preliminary T+1 figures, providing early indicators for trading desk review
+<figure style="text-align: center; margin: 0 auto 30px auto; display: block; width: 100%;">
+    <img src="{{ '/PnL_timeline.png' | relative_url }}" alt="P&L Delivery Timeline" style="max-width: 90%; height: auto; display: inline-block; border-radius: 8px; border: 1px solid #eee;">
+    <figcaption style="margin-top: 10px; color: #666;"><em>High-level daily P&L production and sign-off workflow.</em></figcaption>
+</figure>
 
-* **Executed critical preprocessing activities** including RFA timing adjustments, FX close regional timing corrections, and dividend AVI calculations to ensure accurate P&L consolidation from multiple internal source systems
+## Core Responsibilities
 
-### Variance Investigation & Resolution
-* **Investigated T0 vs T+1 P&L variances down to sub-attribute level** to identify root causes of discrepancies between preliminary and actual P&L
+### 1. P&L Production & Preprocessing
+* **Standardized Daily Adjustments**: Executed critical manual adjustments including RFA funding alignment, FX timing corrections, and dividend AVI truing up to correct systemic distortions in raw data.
+* **MTM Validation**: Generated independent risk-based P&L estimates by applying T-1 risk exposures to current market movements, providing a benchmark for official figures.
+* **System Consolidation**: Leveraged **One View**, **SAP BO**, and **Equity Consol** to aggregate data from multiple upstream feeders into the official ledger.
 
-* **Resolved breaks through ledger adjustments and system corrections**, coordinating with trading desk, middle office, and IT teams to validate figures and maintain data integrity across reporting systems
+### 2. Variance Investigation & Control
+* **T0 vs T+1 Reconciliation**: Investigated discrepancies between preliminary desk estimates ("Flash") and actual finalized figures, identifying root causes down to the sub-attribute level.
+* **MTM Attribution Analysis**: Explained P&L drivers across specific attributes such as Time Value Decay, Equity Spot movements, and FX Rate shifts.
+* **Exception Resolution**: Coordinated with Middle Office and IT to resolve ledger breaks and maintain data integrity across reporting systems.
 
-* **Performed daily Mark-to-Market (MTM) P&L reconciliation**, validating end-of-day rates, valuations, funding charges, and internal fees to ensure accurate reflection of trading book positions
-
-### Process Improvement & Documentation
-* **Standardized recurring manual P&L adjustments** including RFA timing corrections, FX close timing adjustments, index marking, and dividend rake-offs, reducing processing time and improving consistency
-
-* **Documented P&L delivery workflows and control checks**, creating comprehensive process documentation that improved team knowledge transfer and onboarding efficiency
-
-## About This Role
-
-<div class="notice--info">
-  <h4>Role Context</h4>
-  <p><strong>Department:</strong> Capital Markets Financing (EMEA), Group Finance Aligned Investment Bank</p>
-  <p><strong>Supervisor:</strong> Mrs. Soumya Pandey, Associate Director</p>
-  <p><strong>Duration:</strong> 6 months (January 27, 2025 - June 18, 2025)</p>
-  <p><strong>Location:</strong> UBS Business Solutions India, Hyderabad</p>
-</div>
-
-This internship was in the Product Control function supporting the Capital Markets Financing desk, which operates as a delta-neutral market-making business. The desk maintains balanced long and short positions across equity derivatives, managing positions through strategic hedging and Securities Borrowing & Lending (SBL) activities.
-
-### Key Responsibilities
-The role involved three primary workflows:
-
-1. **Preprocessing Activities**: Adjusting P&L inputs for timing differences (RFA, FX close) and dividend accruals before consolidation
-
-2. **T1 vs Risk Sensitivity P&L Reporting**: Comparing actual P&L against risk-based estimates to identify unexpected variances
-
-3. **Daily T0 vs T+1 Investigations**: Comprehensive end-of-day reconciliation covering system feeds, rates, valuations, MTM analysis, adjustments, and final P&L commentary
-
-### Technical Environment
-* **Primary Systems**: Ledger (book of record), Geronimo (risk), Sabre (positions), COLT (trades), Global One (reference data), RFA (risk factor adjustments)
-* **Analysis Tools**: One View (consolidated P&L), SAP Business Objects (reporting), RAM (risk analytics), Equity Consol (equity positions), SCP (supervisory control), Hydra (aggregations)
-* **P&L Attribution**: Sub-attribute analysis across Time Value components (TV Decay, TV Underlying, TV Spot FX, TV Dividends, TV Equity Rate) and direct components (Equity Spot, FX rates, Dividends, Funding, Fees)
-
-## Skills Applied
-
-* Daily P&L reporting and reconciliation
-* Variance investigation and root cause analysis
-* Sub-attribute level financial analysis of various financial instruments (Stocks, FX Swaps, Dividends)
-* Multi-system data validation (Geronimo, Sabre, COLT, One View, SAP BO)
-* Cross-functional collaboration with trading desks, middle office, and IT
-* Financial controls and audit compliance
+## Technical Ecosystem
+* **Front Office Systems**: Geronimo (Risk), Sabre (Positions), COLT (Trades), Global One (SBL).
+* **Finance Tools**: RAM (Ledger Adjustments), SCP (Supervisory Control), Hydra (Aggregation).
 
 ---
+
+## Final Presentation
+
+The following presentation summarizes my key contributions, process improvements, and technical learnings during the 6-month tenure at UBS.
+
+<div style="width: 100%; height: 500px; margin-bottom: 30px;">
+    <iframe src="{{ '/presn_a.pptx' | relative_url }}" width="100%" height="100%" frameborder="0">
+        This browser does not support inline PDFs or PPTX. Please download the presentation to view it.
+    </iframe>
+</div>
 
 **Timeline**: January 27, 2025 - June 18, 2025 (6 months)
