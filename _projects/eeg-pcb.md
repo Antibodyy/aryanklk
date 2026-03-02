@@ -53,7 +53,7 @@ This project involved developing a complete printed circuit board solution for a
         <figcaption style="margin-top: 8px;"><em>3D CAD Board Render</em></figcaption>
     </figure>
     <figure class="project-figure" style="margin: 0; flex: 1;">
-        <img src="{{ '/board_comp.png' | relative_url }}" alt="Completed PCB Assembly" style="max-width: 100%; height: auto;">
+        <img src="{{ '/board_comp.jpeg' | relative_url }}" alt="Completed PCB Assembly" style="max-width: 100%; height: auto;">
         <figcaption style="margin-top: 8px;"><em>Completed PCB Assembly</em></figcaption>
     </figure>
 </div>
