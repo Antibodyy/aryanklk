@@ -11,7 +11,7 @@ I am a mechanical engineering graduate student at UC Berkeley with hands-on expe
 
 I'm currently pursuing my M.Eng. in Mechanical Engineering at UC Berkeley, working on projects ranging from large-format 3D printing systems to thermal management in data centers. My background includes internships in product control, mechanical engineering, and nuclear research, complemented by teaching experience at BITS Pilani.
 
-This site showcases my projects, coursework, and professional experience. Check out my [CV](/cv/) for more details.
+This site showcases my projects, coursework, and professional experience. Check out my [CV]({{ site.baseurl }}/cv/) for more details.
 
 ## Technical Expertise
 
