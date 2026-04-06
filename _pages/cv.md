@@ -44,7 +44,6 @@ Skills
 ======
 * **CAD & Design**
   * SolidWorks, Fusion 360, AutoCAD, KiCAD
-  * GD&T, Tolerance Stack-up Analysis, DFM
 * **Analysis**
   * ANSYS (Mechanical, Fluent) — Structural, Thermal, Modal FEA, CFD
   * MATLAB, SIMULINK

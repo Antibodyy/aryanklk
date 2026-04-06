@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a mechanical engineering graduate student at UC Berkeley with hands-on experience in CAD, hardware prototyping, and FEA — focused on bringing complex electro-mechanical systems from concept through build and validation.
+I'm a mechanical engineer who likes building things that move, light up, and occasionally break — so I can figure out why and fix them.
 
-My work spans two areas I'm deeply interested in: **consumer hardware product design** (precision mechanisms, DFM-optimized assemblies, tolerance-critical interfaces) and **robotic hardware** (motion control systems, mechatronics integration, real-time embedded systems). I'm currently working on a large-format Computed Axial Lithography 3D printing system at Berkeley, where I own hardware assembly, GD&T-optimized SolidWorks design, and a custom 4-DOF G-Code motion control pipeline in C++.
+I'm finishing my M.Eng. at UC Berkeley. I'm drawn to two kinds of problems: making hardware that ships (accuracy-demanding, optimized complicated assemblies, designs that survive manufacturing at scale) and making hardware that moves (motion control, mechatronics, real-time embedded systems). The best roles sit at the intersection.
 
-My background includes internships in mechanical engineering (FEA/structural analysis at Speed Engineering) and R&D (nuclear reactor materials at IGCAR), complemented by graduate coursework in Model Predictive Control, EUV Lithography, Advanced Manufacturing Simulation, and Microprocessor-based Mechanical Systems.
+I pick up tools fast — whether it's a new CAD package, a programming language, or a piece of lab equipment I haven't touched before. My default mode is figure it out, make it work, then make it better.
 
-Check out my [CV]({{ site.baseurl }}/cv/) or browse my [projects]({{ site.baseurl }}/projects/) for more.
+My projects and experience span precision mechanical design, electronics, controls, and thermal systems — you can explore them here.
+
+Graduating May 2026. Open to full-time roles in the Bay Area and beyond.
+
+Check out my [CV]({{ site.baseurl }}/cv/) or browse my [projects]({{ site.baseurl }}/projects/).
 
 ## Technical Skills
 
-- **CAD & Design**: SolidWorks, Fusion 360, AutoCAD, KiCAD, GD&T, DFM, Tolerance Stack-up Analysis
+- **CAD & Design**: SolidWorks, Fusion 360, AutoCAD, KiCAD
 - **Analysis**: ANSYS (Mechanical, Fluent), MATLAB, SIMULINK, Cadence Reality DC Design Pro
 - **Programming**: Python, C++, Linux, ROS2, Real-time ESP32, LabVIEW
 - **Lab & Prototyping**: 3D Printing, Soldering, PCB Design, Rapid Prototyping, Oscilloscopes, Calipers, Multimeters
