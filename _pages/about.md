@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a mechanical engineer who likes building things that move, light up, and occasionally break — so I can figure out why and fix them.
+I'm a mechanical engineer who likes building things that move, light up, and occasionally break, so I can figure out why and fix them.
 
 I'm finishing my M.Eng. at UC Berkeley. I'm drawn to two kinds of problems: making hardware that ships (accuracy-demanding, optimized complicated assemblies, designs that survive manufacturing at scale) and making hardware that moves (motion control, mechatronics, real-time embedded systems). The best roles sit at the intersection.
 
-I pick up tools fast — whether it's a new CAD package, a programming language, or a piece of lab equipment I haven't touched before. My default mode is figure it out, make it work, then make it better.
+I pick up tools fast: whether it's a new CAD package, a programming language, or a piece of lab equipment I haven't touched before. My default mode is figure it out, make it work, then make it better.
 
-My projects and experience span precision mechanical design, electronics, controls, and thermal systems — you can explore them here.
+My projects and experience span precision mechanical design, electronics, controls, and thermal systems. You can explore them here.
 
 Graduating May 2026. Open to full-time roles in the Bay Area and beyond.
 
