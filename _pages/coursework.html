@@ -5,10 +5,10 @@ permalink: /coursework/
 author_profile: true
 ---
 
-## Graduate Coursework - UC Berkeley
+{% include base_path %}
 
-* Design of Microprocessor-based Mechanical Systems
-* Next Generation Data Centers and Energy Management
-* Deep Tech Innovation
-* New Venture Finance
-* BicyCAL - Bicycle Maintenance and Repair
+## Graduate Coursework — UC Berkeley
+
+<ul>{% for post in site.coursework reversed %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
