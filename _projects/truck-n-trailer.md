@@ -1,8 +1,8 @@
 ---
 title: "Truck-N-Trailer Autonomous Parking System"
-collection: portfolio
+collection: projects
 type: "Academic Project"
-permalink: /portfolio/truck-n-trailer
+permalink: /projects/truck-n-trailer
 venue: "UC Berkeley — ME 235"
 location: "Berkeley, CA"
 order: 4
